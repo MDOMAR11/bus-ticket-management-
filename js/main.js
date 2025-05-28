@@ -39,7 +39,327 @@ document.getElementById('seat-4').addEventListener('click',function(){
      btnActive();
      disableMe('seat-4');
 })
-
-
-
-
+document.getElementById('seat-5').addEventListener('click',function(){
+     btnActivity('seat-5');
+     selectSeatCount();
+     seatNamePrice('seat-5');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-5');
+})
+document.getElementById('seat-6').addEventListener('click',function(){
+     btnActivity('seat-6');
+     selectSeatCount();
+     seatNamePrice('seat-6');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-6');
+})
+document.getElementById('seat-9').addEventListener('click',function(){
+     btnActivity('seat-9');
+     selectSeatCount();
+     seatNamePrice('seat-9');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-9');
+})
+document.getElementById('seat-10').addEventListener('click',function(){
+     btnActivity('seat-10');
+     selectSeatCount();
+     seatNamePrice('seat-10');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-10');
+})
+document.getElementById('seat-11').addEventListener('click',function(){
+     btnActivity('seat-11');
+     selectSeatCount();
+     seatNamePrice('seat-11');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-11');
+})
+document.getElementById('seat-12').addEventListener('click',function(){
+     btnActivity('seat-12');
+     selectSeatCount();
+     seatNamePrice('seat-12');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-12');
+})
+document.getElementById('seat-13').addEventListener('click',function(){
+     btnActivity('seat-13');
+     selectSeatCount();
+     seatNamePrice('seat-13');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-13');
+})
+document.getElementById('seat-14').addEventListener('click',function(){
+     btnActivity('seat-14');
+     selectSeatCount();
+     seatNamePrice('seat-14');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-14');
+})
+document.getElementById('seat-15').addEventListener('click',function(){
+     btnActivity('seat-15');
+     selectSeatCount();
+     seatNamePrice('seat-15');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-15');
+})
+document.getElementById('seat-16').addEventListener('click',function(){
+     btnActivity('seat-16');
+     selectSeatCount();
+     seatNamePrice('seat-16');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-16');
+})
+document.getElementById('seat-17').addEventListener('click',function(){
+     btnActivity('seat-17');
+     selectSeatCount();
+     seatNamePrice('seat-17');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-17');
+})
+document.getElementById('seat-18').addEventListener('click',function(){
+     btnActivity('seat-18');
+     selectSeatCount();
+     seatNamePrice('seat-18');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-18');
+})
+document.getElementById('seat-19').addEventListener('click',function(){
+     btnActivity('seat-19');
+     selectSeatCount();
+     seatNamePrice('seat-19');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-19');
+})
+document.getElementById('seat-20').addEventListener('click',function(){
+     btnActivity('seat-20');
+     selectSeatCount();
+     seatNamePrice('seat-20');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-20');
+})
+document.getElementById('seat-21').addEventListener('click',function(){
+     btnActivity('seat-21');
+     selectSeatCount();
+     seatNamePrice('seat-21');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-21');
+})
+document.getElementById('seat-22').addEventListener('click',function(){
+     btnActivity('seat-22');
+     selectSeatCount();
+     seatNamePrice('seat-22');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-22');
+})
+document.getElementById('seat-23').addEventListener('click',function(){
+     btnActivity('seat-23');
+     selectSeatCount();
+     seatNamePrice('seat-23');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-23');
+})
+document.getElementById('seat-24').addEventListener('click',function(){
+     btnActivity('seat-24');
+     selectSeatCount();
+     seatNamePrice('seat-24');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-24');
+})
+document.getElementById('seat-25').addEventListener('click',function(){
+     btnActivity('seat-25');
+     selectSeatCount();
+     seatNamePrice('seat-25');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-25');
+})
+document.getElementById('seat-26').addEventListener('click',function(){
+     btnActivity('seat-26');
+     selectSeatCount();
+     seatNamePrice('seat-26');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-26');
+})
+document.getElementById('seat-27').addEventListener('click',function(){
+     btnActivity('seat-27');
+     selectSeatCount();
+     seatNamePrice('seat-27');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-27');
+})
+document.getElementById('seat-28').addEventListener('click',function(){
+     btnActivity('seat-28');
+     selectSeatCount();
+     seatNamePrice('seat-28');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-28');
+})
+document.getElementById('seat-29').addEventListener('click',function(){
+     btnActivity('seat-29');
+     selectSeatCount();
+     seatNamePrice('seat-29');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-29');
+})
+document.getElementById('seat-30').addEventListener('click',function(){
+     btnActivity('seat-30');
+     selectSeatCount();
+     seatNamePrice('seat-30');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-30');
+})
+document.getElementById('seat-31').addEventListener('click',function(){
+     btnActivity('seat-31');
+     selectSeatCount();
+     seatNamePrice('seat-31');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-31');
+})
+document.getElementById('seat-32').addEventListener('click',function(){
+     btnActivity('seat-32');
+     selectSeatCount();
+     seatNamePrice('seat-32');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-32');
+})
+document.getElementById('seat-33').addEventListener('click',function(){
+     btnActivity('seat-33');
+     selectSeatCount();
+     seatNamePrice('seat-33');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-33');
+})
+document.getElementById('seat-34').addEventListener('click',function(){
+     btnActivity('seat-34');
+     selectSeatCount();
+     seatNamePrice('seat-34');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-34');
+})
+document.getElementById('seat-35').addEventListener('click',function(){
+     btnActivity('seat-35');
+     selectSeatCount();
+     seatNamePrice('seat-35');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-35');
+})
+document.getElementById('seat-36').addEventListener('click',function(){
+     btnActivity('seat-36');
+     selectSeatCount();
+     seatNamePrice('seat-36');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-36');
+})
+document.getElementById('seat-37').addEventListener('click',function(){
+     btnActivity('seat-37');
+     selectSeatCount();
+     seatNamePrice('seat-37');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-37');
+})
+document.getElementById('seat-38').addEventListener('click',function(){
+     btnActivity('seat-38');
+     selectSeatCount();
+     seatNamePrice('seat-38');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-38');
+})
+document.getElementById('seat-39').addEventListener('click',function(){
+     btnActivity('seat-39');
+     selectSeatCount();
+     seatNamePrice('seat-39');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-39');
+})
+document.getElementById('seat-40').addEventListener('click',function(){
+     btnActivity('seat-40');
+     selectSeatCount();
+     seatNamePrice('seat-40');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-40');
+})
+document.getElementById('seat-41').addEventListener('click',function(){
+     btnActivity('seat-41');
+     selectSeatCount();
+     seatNamePrice('seat-41');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-41');
+})
+document.getElementById('seat-42').addEventListener('click',function(){
+     btnActivity('seat-42');
+     selectSeatCount();
+     seatNamePrice('seat-42');
+     seatLeft();
+     totalPrice();
+     btnActive();
+     disableMe('seat-42');
+})
